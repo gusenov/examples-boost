@@ -1,0 +1,3 @@
+- [c++ - Binary data serialization into JSON with the boost property_tree - Stack Overflow](https://stackoverflow.com/questions/46798811/binary-data-serialization-into-json-with-the-boost-property-tree)
+- [c++ - Serializing and deserializing JSON with Boost - Stack Overflow](https://stackoverflow.com/questions/12394472/serializing-and-deserializing-json-with-boost)
+- [c++ - map<string, string> how to insert data in this map? - Stack Overflow](https://stackoverflow.com/questions/3709031/mapstring-string-how-to-insert-data-in-this-map)
