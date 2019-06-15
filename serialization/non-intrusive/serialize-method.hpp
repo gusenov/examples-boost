@@ -1,3 +1,6 @@
+#ifndef SERIALIZE_METHOD_HPP
+#define SERIALIZE_METHOD_HPP
+
 // non-intrusive версия serialize дефинированная вне скопа класса.
 // Можно дефинировать serialize и в глобальном скопе; однако хорошей практикой
 // считается дефинировать метод в релевантном пространстве имён:
@@ -12,3 +15,5 @@ namespace boost {
     }
   }  // namespace serialization
 }  // namespace boost
+
+#endif
