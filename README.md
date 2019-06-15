@@ -2,3 +2,4 @@
 
 # Сериализация и десериализация
 
+- [Сериализация и десериализация класса с приватным элементом типа std::vector<std::string>](serialization/serialize-std-vector)
