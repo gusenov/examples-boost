@@ -1,4 +1,7 @@
+- [A practical guide to C++ serialization](http://www.ocoudert.com/blog/2011/07/09/a-practical-guide-to-c-serialization/)
+
 # boost.org
+
 - [Serialization](https://www.boost.org/doc/libs/1_70_0/libs/serialization/doc/index.html)
 - [Serialization - Tutorial](https://www.boost.org/doc/libs/1_70_0/libs/serialization/doc/tutorial.html)
 - [Index listing for libs/serialization/example/ - 1.70.0](https://www.boost.org/doc/libs/1_70_0/libs/serialization/example/)
